@@ -13,6 +13,7 @@ Here's a list of the available data :
 -Cashflow from March 2016
 
 From which only the Profit and Loss sheet was used alongside the Quaterly Statistics sheet.
+-The Balance sheet requires a bit more understanding of the data for it to be properly visualised and hence did not proceed with it at the moment.
 
 **Dropdown Feature** :
 _The dropdown feature is a very convenient way of sorting and visualising data as it allows us to generate a sub-view of the entire set of data according to the self-made parameters_
