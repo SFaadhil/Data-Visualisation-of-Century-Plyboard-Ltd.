@@ -14,12 +14,12 @@ Here's a list of the available data :
 
 From which only the Profit and Loss sheet was used alongside the Quaterly Statistics sheet.
 
-**Dropdown Feature**
+**Dropdown Feature** :
 _The dropdown feature is a very convenient way of sorting and visualising data as it allows us to generate a sub-view of the entire set of data according to the self-made parameters_
 
-**Yearly Charts**
+**Yearly Charts** :
 After analysing the yearly data 2016 onwards, some basic graphs can be derived as seen in the code, which includes a mix of both line and bar graphs.
 
-**Quaterly Charts**
+**Quaterly Charts** :
 Personally wanted to see whether I could make the window scrollable and add all the quaterly graphs in one place like a dashboard and that's how it has been implemented as well.
 
