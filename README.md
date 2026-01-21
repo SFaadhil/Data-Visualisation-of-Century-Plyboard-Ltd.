@@ -23,3 +23,5 @@ After analysing the yearly data 2016 onwards, some basic graphs can be derived a
 **Quaterly Charts** :
 Personally wanted to see whether I could make the window scrollable and add all the quaterly graphs in one place like a dashboard and that's how it has been implemented as well.
 
+**Note : The CSV files used in the code have been attached as well and the code needs to have the filepath for the csv files updated accordingly**
+
